@@ -169,6 +169,7 @@ body{
 /* about section css start */
 section{
     padding: 90px 50px;
+    height: 100vh;
 }.about{
     display: flex;
     justify-content: center;
